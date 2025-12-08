@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/1vitinho_souza?igsh=MXZzYWRxZnJsMXBzeQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicyus.faria" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&" alt="1viny" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&" alt="vitintech" /></p>
 
 <picture>
   <source
