@@ -1,26 +1,38 @@
-<h1 align="center">Olá 👋, sou Victor Souza</h1>
+# 👋 Olá, eu sou Victor Souza
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1viny&label=Profile%20views&color=0e75b6&style=flat" alt="1viny" /> </p>
+🎓 Estudante de **Engenharia de Software** (3º semestre)  
+💻 Desenvolvedor em formação  
+🌍 Inglês em desenvolvimento | Interesse no mercado internacional
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/victor-souza-80843524a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicyus eduardo vicenitni faria" height="30" width="40" /></a>
-<a href="https://www.instagram.com/1vitinho_souza?igsh=MXZzYWRxZnJsMXBzeQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicyus.faria" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre mim
+Sou estudante de Engenharia de Software, com foco em desenvolvimento de software e interesse em aprender, na prática, como soluções são projetadas, desenvolvidas e mantidas no ambiente profissional.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&" alt="vitintech" /></p>
+Tenho experiência acadêmica e em projetos de curso, onde venho desenvolvendo minha base em programação, lógica e versionamento de código.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+Atualmente, busco uma **oportunidade de estágio** para aplicar meus conhecimentos, evoluir tecnicamente e adquirir experiência prática na área de TI.
+
+## 🛠️ Tecnologias e Conceitos
+- Lógica de Programação
+- Git & GitHub
+- Linguagem C (fundamentos)
+- JavaScript (básico)
+- HTML & CSS
+- Programação estruturada
+
+## 📚 Atualmente estudando
+- Fundamentos de Engenharia de Software
+- Estruturas de dados (conceitos iniciais)
+- Boas práticas de programação
+- Leitura de documentação técnica em inglês
+
+## 📂 Projetos em destaque
+- **C Exercises – Console Project**  
+  Exercícios e programas em C focados em lógica de programação e fundamentos.
+
+## 🌱 Objetivos
+- Aprofundar conhecimentos em desenvolvimento de software
+- Evoluir tecnicamente por meio de projetos práticos
+- Atuar futuramente no mercado internacional de tecnologia
+
+## 📫 Vamos nos conectar
+- LinkedIn: https://www.linkedin.com/in/victor-souza-80843524a/
