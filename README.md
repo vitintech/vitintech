@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** (3º semestre)  
 💻 Desenvolvedor em formação  
-🌍 Inglês em desenvolvimento | Interesse no mercado internacional
+🌍 Inglês em desenvolvimento
 
 ## 🚀 Sobre mim
 Sou estudante de Engenharia de Software, com foco em desenvolvimento de software e interesse em aprender, na prática, como soluções são projetadas, desenvolvidas e mantidas no ambiente profissional.
