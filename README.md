@@ -31,6 +31,7 @@ Atualmente, busco uma **oportunidade de estágio** para aplicar meus conheciment
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em desenvolvimento de software
 - Evoluir tecnicamente por meio de projetos práticos
+- Melhorar constantemente como profissional
 
 ## 📫 Vamos nos conectar
 - LinkedIn: https://www.linkedin.com/in/victor-souza-80843524a/
