@@ -26,13 +26,11 @@ Atualmente, busco uma **oportunidade de estágio** para aplicar meus conheciment
 - Leitura de documentação técnica em inglês
 
 ## 📂 Projetos em destaque
-- **C Exercises – Console Project**  
-  Exercícios e programas em C focados em lógica de programação e fundamentos.
+- Em breve...
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em desenvolvimento de software
 - Evoluir tecnicamente por meio de projetos práticos
-- Atuar futuramente no mercado internacional de tecnologia
 
 ## 📫 Vamos nos conectar
 - LinkedIn: https://www.linkedin.com/in/victor-souza-80843524a/
