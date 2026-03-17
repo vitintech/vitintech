@@ -9,24 +9,26 @@ Sou estudante de Engenharia de Software, com foco em desenvolvimento de software
 
 Tenho experiência acadêmica e em projetos de curso, onde venho desenvolvendo minha base em programação, lógica e versionamento de código.
 
-Atualmente, busco uma **oportunidade de estágio** para aplicar meus conhecimentos, evoluir tecnicamente e adquirir experiência prática na área de TI.
+Atualmente, busco uma **oportunidade** para aplicar meus conhecimentos, evoluir tecnicamente e adquirir experiência prática na área de TI.
 
 ## 🛠️ Tecnologias e Conceitos
 - Lógica de Programação
 - Git & GitHub
-- Linguagem C (fundamentos)
+- Linguagem C
 - JavaScript (básico)
-- HTML & CSS
-- Programação estruturada
+- HTML & CSS (básico)
+- Java com Programação Orientada a Objetos
 
 ## 📚 Atualmente estudando
-- Fundamentos de Engenharia de Software
-- Estruturas de dados (conceitos iniciais)
+- Estruturas de dados
+- Front-end
+- Java com Programação orientada a objetos
 - Boas práticas de programação
-- Leitura de documentação técnica em inglês
+- Mentalidade criativa
+- Alura língua (inglês)
 
 ## 📂 Projetos em destaque
-- Em breve...
+- NumeroSecreto
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em desenvolvimento de software
