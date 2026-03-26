@@ -15,8 +15,8 @@ Atualmente, busco uma **oportunidade** para aplicar meus conhecimentos, evoluir 
 - Lógica de Programação
 - Git & GitHub
 - Linguagem C
-- JavaScript (básico)
-- HTML & CSS (básico)
+- JavaScript
+- HTML & CSS
 - Java com Programação Orientada a Objetos
 
 ## 📚 Atualmente estudando
