@@ -28,7 +28,8 @@ Atualmente, busco uma **oportunidade** para aplicar meus conhecimentos, evoluir 
 - Alura língua (inglês)
 
 ## 📂 Projetos em destaque
-- NumeroSecreto
+- Jogo do número secreto
+- Projeto operações bancárias
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em desenvolvimento de software
