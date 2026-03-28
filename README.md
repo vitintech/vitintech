@@ -29,7 +29,7 @@ Atualmente, busco uma **oportunidade** para aplicar meus conhecimentos, evoluir 
 
 ## 📂 Projetos em destaque
 - Jogo do número secreto
-- Projeto operações bancárias
+- Operações bancárias
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em desenvolvimento de software
