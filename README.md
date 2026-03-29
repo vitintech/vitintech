@@ -28,7 +28,7 @@ Atualmente, busco uma **oportunidade** para aplicar meus conhecimentos, evoluir 
 - Alura língua (inglês)
 
 ## 📂 Projetos em destaque
-- Jogo do número secreto
+- Jogo da adivinhação
 - Operações bancárias
 
 ## 🌱 Objetivos
