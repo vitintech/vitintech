@@ -19,8 +19,8 @@ Meu objetivo é conquistar uma oportunidade na área de desenvolvimento back-end
 
 ## 🛠️ Tecnologias e Conceitos
 
-### 🔹Foco principal
-- Java (Programação Orientada a Objetos, Lógica, estruturas básicas)
+### 🔹 Foco principal
+- Java (Programação Orientada a Objetos, Lógica de Programação, estruturas básicas)
 
 ### 🔹 Base sólida
 - Lógica de Programação
@@ -28,7 +28,7 @@ Meu objetivo é conquistar uma oportunidade na área de desenvolvimento back-end
 
 ### 🔹 Em desenvolvimento
 - Estruturas de dados (pilhas, listas, filas)
-- Fundamentos de back-end (APIs, REST, HTTP, JSON)
+- Fundamentos de back-end (APIs REST, HTTP, JSON)
 
 ### 🔹 Complementar
 - HTML & CSS
@@ -42,7 +42,7 @@ Meu objetivo é conquistar uma oportunidade na área de desenvolvimento back-end
 ## 📂 Projetos
 
 ### 🔹 Sistema de Operações Bancárias
-Aplicação desenvolvida em Java com foco em simulação de operações bancárias, permitindo realizar depósito, saque e transferência entre contas.
+Aplicação desenvolvida em Java com foco na simulação de operações bancárias, permitindo realizar depósito, saque e transferência entre contas.
 
 O projeto foi estruturado com base em Programação Orientada a Objetos, buscando representar regras de negócio de forma organizada e próxima de um sistema real.
 
